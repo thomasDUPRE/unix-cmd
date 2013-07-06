@@ -3,7 +3,12 @@
    "version" : "0.0.1",
    "author" : "Thomas DUPRE <dupre.thomas.m@gmail.com>",
    "description" : "Provides simple functions for executing commands line files.",
-   "homepage" : ""
+   "main": "./index",
+   "repository": {
+     "type": "git",
+     "url": "https://github.com/thomasDUPRE/unix-cmd"
+   },
+   
    "keywords" : [
         "file",
         "bash",
