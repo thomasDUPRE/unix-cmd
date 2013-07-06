@@ -1,0 +1,17 @@
+{
+   "name" : "unix-cmd",
+   "version" : "0.0.1",
+   "author" : "Thomas DUPRE <dupre.thomas.m@gmail.com>",
+   "description" : "Provides simple functions for executing commands line files.",
+   "homepage" : ""
+   "keywords" : [
+        "file",
+        "bash",
+        "unix",
+        "command",
+        "line",
+        "script" ],
+   "engines" : {
+        "node" : "*"
+   }
+}
